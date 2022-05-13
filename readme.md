@@ -1,9 +1,8 @@
-# Excalibur TypeScript & Vite template
+# Shard World (Game)
 
-## Getting Started
+## Baisc idea
+A small 2D game that lets you play a life in a little medieval world, connecctet to other litte pieces of world - the so called shards. The game serves different play styles has a focus on peaceful gameplay and rewards active players and idle players in different ways.
 
-1. [Generate a repository](https://github.com/excaliburjs/template-ts-vite/generate) from this template
-2. Modify the `package.json` with your own details
-3. Run `npm install` to install dependencies
-4. Run `npm run dev` to start the Vite server!
-5. Have fun!
+## Deploy
+Run `npm install` and `npm run dev` to install the dependencies and start the Vite server!
+

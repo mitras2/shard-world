@@ -1,7 +1,7 @@
 {
-  "name": "template-ts-vite",
+  "name": "shard-world",
   "version": "1.0.0",
-  "description": "Excalibur TypeScript template for Vite",
+  "description": "A small medieval life and building sim build with Excalibur",
   "main": "index.js",
   "scripts": {
     "dev": "vite",
@@ -11,20 +11,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/excaliburjs/template-ts-vite.git"
+    "url": "git+https://github.com/mitras2/shard-world.git"
   },
   "keywords": [
+    "medieval",
+    "game",
+    "citybuilder",
+    "simulation",
     "excalibur",
     "excaliburjs",
-    "vite",
-    "game-engine"
   ],
-  "author": "Erik Onarheim",
+  "author": "mitras2",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/excaliburjs/template-ts-vite/issues"
+    "url": "https://github.com/mitras2/shard-world/issues"
   },
-  "homepage": "https://github.com/excaliburjs/template-ts-vite#readme",
+  "homepage": "https://github.com/mitras2/shard-world",
   "devDependencies": {
     "excalibur": "0.25.3",
     "typescript": "4.6.4",
